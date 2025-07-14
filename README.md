@@ -1,9 +1,3 @@
-Of course. A good `README.md` is essential for any project. Here is a comprehensive one for the final script, formatted in Markdown.
-
-You can save this directly as a `README.md` file in your project directory.
-
----
-
 # VK Album Downloader
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
