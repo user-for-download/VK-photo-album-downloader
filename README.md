@@ -30,8 +30,8 @@ This script is designed for performance and reliability, using modern Python fea
     Clone this repository or download the `vk_album_downloader.py` script and the `requirements.txt` file into a new directory.
 
     ```bash
-    git clone [VK-photo-album-downloader](https://github.com/user-for-download/VK-photo-album-downloader.git)
-    cd vk-album-downloader
+    git clone https://github.com/user-for-download/VK-photo-album-downloader.git
+    cd VK-photo-album-downloader
     ```
 
 2.  **Create a Virtual Environment**
